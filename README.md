@@ -86,7 +86,7 @@ How does profit margin vary across products and regions?
 ---
 
 ## 📷 Screenshots
-<img width="458" height="335" alt="image" src="https://github.com/user-attachments/assets/0864643d-a932-446f-b9d7-b41950ae9bcb" />
+<img width="477" height="350" alt="image" src="https://github.com/user-attachments/assets/00921419-e43c-4064-a140-d0229be25436" />
 
 
 ---
