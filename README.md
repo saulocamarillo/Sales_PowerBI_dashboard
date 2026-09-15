@@ -46,6 +46,19 @@ The Power BI report connects to the SQL database and visualizes:
 - **Charts:** Sales by month, Profit Margin trend, Top products.
 - **Maps:** Sales by region.
 - **Tables:** Customer rankings.
+-**Solving Business Questions**
+
+What are the company's highest-selling products?
+
+Which regions generate the most revenue?
+
+How are sales changing over time?
+
+Which products generate the highest profit?
+
+• Which customers contribute the most revenue?
+
+How does profit margin vary across products and regions?
 
 ---
 
@@ -73,7 +86,7 @@ The Power BI report connects to the SQL database and visualizes:
 ---
 
 ## 📷 Screenshots
-*(Add images of your dashboard here for better presentation)*
+
 
 ---
 
